@@ -1,0 +1,1239 @@
+2023-10-22 22:7:20	CGameClient::Startup - OK
+2023-10-22 22:7:20	CGameClient::ConnectTo OK
+2023-10-22 22:7:34	CGameClient::Startup - OK
+2023-10-22 22:7:35	CConnectManager::Cleanup OK
+2023-10-22 22:7:35	CGameClient::ConnectTo OK
+2023-10-22 22:9:32	CGameClient::Startup - OK
+2023-10-22 22:9:33	CGameClient::ConnectTo OK
+2023-10-22 22:9:53	CConnectManager::Cleanup OK
+2023-10-22 22:27:21	CGameClient::Startup - OK
+2023-10-22 22:27:21	CGameClient::ConnectTo OK
+2023-10-22 22:27:36	CConnectManager::Cleanup OK
+2023-10-22 22:29:48	CGameClient::Startup - OK
+2023-10-22 22:29:48	CGameClient::ConnectTo OK
+2023-10-22 22:30:3	CConnectManager::Cleanup OK
+2023-10-22 22:30:43	CGameClient::Startup - OK
+2023-10-22 22:30:43	CGameClient::ConnectTo OK
+2023-10-22 22:31:3	CConnectManager::Cleanup OK
+2023-10-22 22:31:36	CGameClient::Startup - OK
+2023-10-22 22:31:36	CGameClient::ConnectTo OK
+2023-10-22 22:31:54	CGameClient::Startup - OK
+2023-10-22 22:31:56	CConnectManager::Cleanup OK
+2023-10-22 22:31:57	CGameClient::ConnectTo OK
+2023-10-22 22:32:3	CConnectManager::Cleanup OK
+2023-10-22 22:33:20	CGameClient::Startup - OK
+2023-10-22 22:33:20	CGameClient::ConnectTo OK
+2023-10-22 22:34:0	CGameClient::Startup - OK
+2023-10-22 22:34:0	CGameClient::ConnectTo OK
+2023-10-22 22:34:20	CConnectManager::Cleanup OK
+2023-10-22 22:36:42	CGameClient::Startup - OK
+2023-10-22 22:36:42	CGameClient::ConnectTo OK
+2023-10-22 22:37:2	CConnectManager::Cleanup OK
+2023-10-22 22:37:43	CGameClient::Startup - OK
+2023-10-22 22:37:43	CGameClient::ConnectTo OK
+2023-10-22 22:37:49	CGameClient::Startup - OK
+2023-10-22 22:37:49	CGameClient::ConnectTo OK
+2023-10-22 22:37:49	CConnectManager::Cleanup OK
+2023-10-22 22:37:54	CConnectManager::Cleanup OK
+2023-10-22 22:37:54	CGameClient::Startup - OK
+2023-10-22 22:37:55	CGameClient::ConnectTo OK
+2023-10-22 22:37:58	CGameClient::Startup - OK
+2023-10-22 22:37:58	CGameClient::ConnectTo OK
+2023-10-22 22:37:58	CConnectManager::Cleanup OK
+2023-10-22 22:38:2	CConnectManager::Cleanup OK
+2023-10-22 22:38:2	CGameClient::Startup - OK
+2023-10-22 22:38:2	CGameClient::ConnectTo OK
+2023-10-22 22:38:3	CConnectManager::Cleanup OK
+2023-10-22 22:38:4	CGameClient::Startup - OK
+2023-10-22 22:38:4	CGameClient::ConnectTo OK
+2023-10-22 22:38:9	CGameClient::Startup - OK
+2023-10-22 22:38:9	CGameClient::ConnectTo OK
+2023-10-22 22:38:9	CConnectManager::Cleanup OK
+2023-10-22 22:38:13	CConnectManager::Cleanup OK
+2023-10-22 22:38:13	CGameClient::Startup - OK
+2023-10-22 22:38:13	CGameClient::ConnectTo OK
+2023-10-22 22:38:15	CConnectManager::Cleanup OK
+2023-10-22 22:39:30	CGameClient::Startup - OK
+2023-10-22 22:39:30	CGameClient::ConnectTo OK
+2023-10-22 22:39:37	CGameClient::Startup - OK
+2023-10-22 22:39:37	CGameClient::ConnectTo OK
+2023-10-22 22:39:37	CConnectManager::Cleanup OK
+2023-10-22 22:44:13	CGameClient::Startup - OK
+2023-10-22 22:44:13	CGameClient::ConnectTo OK
+2023-10-22 22:44:20	CGameClient::Startup - OK
+2023-10-22 22:44:20	CGameClient::ConnectTo OK
+2023-10-22 22:44:20	CConnectManager::Cleanup OK
+2023-10-22 22:49:0	CGameClient::Startup - OK
+2023-10-22 22:49:0	CGameClient::ConnectTo OK
+2023-10-22 22:49:7	CGameClient::Startup - OK
+2023-10-22 22:49:7	CGameClient::ConnectTo OK
+2023-10-22 22:49:7	CConnectManager::Cleanup OK
+2023-10-22 22:54:47	CGameClient::Startup - OK
+2023-10-22 22:54:47	CGameClient::ConnectTo OK
+2023-10-22 22:55:7	CConnectManager::Cleanup OK
+2023-10-22 22:55:24	CGameClient::Startup - OK
+2023-10-22 22:55:25	CGameClient::ConnectTo OK
+2023-10-22 22:55:44	CConnectManager::Cleanup OK
+2023-10-22 22:55:58	CConnectManager::Cleanup OK
+2023-10-22 22:55:58	CGameClient::Startup - OK
+2023-10-22 22:55:58	CGameClient::ConnectTo OK
+2023-10-22 22:56:1	CConnectManager::Cleanup OK
+2023-10-22 23:2:6	CGameClient::Startup - OK
+2023-10-22 23:2:6	CGameClient::ConnectTo OK
+2023-10-22 23:2:13	CGameClient::Startup - OK
+2023-10-22 23:2:13	CGameClient::ConnectTo OK
+2023-10-22 23:2:13	CConnectManager::Cleanup OK
+2023-10-22 23:44:46	CConnectManager::Cleanup OK
+2023-10-22 23:44:46	CGameClient::Startup - OK
+2023-10-22 23:44:46	CGameClient::ConnectTo OK
+2023-10-22 23:55:45	CConnectManager::Cleanup OK
+2023-10-22 23:55:45	CGameClient::Startup - OK
+2023-10-22 23:55:45	CGameClient::ConnectTo OK
+2023-10-22 23:55:46	CGameClient::Startup - OK
+2023-10-22 23:55:46	CGameClient::ConnectTo OK
+2023-10-22 23:55:46	CConnectManager::Cleanup OK
+2023-10-23 0:11:50	CConnectManager::Cleanup OK
+2023-10-23 0:11:50	CGameClient::Startup - OK
+2023-10-23 0:11:50	CGameClient::ConnectTo OK
+2023-10-23 0:11:51	CGameClient::Startup - OK
+2023-10-23 0:11:51	CGameClient::ConnectTo OK
+2023-10-23 0:11:51	CConnectManager::Cleanup OK
+2023-10-23 0:11:54	CConnectManager::Cleanup OK
+2023-10-23 0:11:54	CGameClient::Startup - OK
+2023-10-23 0:11:54	CGameClient::ConnectTo OK
+2023-10-23 0:12:3	CConnectManager::Cleanup OK
+2023-10-23 0:12:3	CGameClient::Startup - OK
+2023-10-23 0:12:3	CGameClient::ConnectTo OK
+2023-10-23 0:13:51	CConnectManager::Cleanup OK
+2023-10-23 0:13:51	CGameClient::Startup - OK
+2023-10-23 0:13:51	CGameClient::ConnectTo OK
+2023-10-23 0:14:5	CConnectManager::Cleanup OK
+2023-10-23 0:14:5	CGameClient::Startup - OK
+2023-10-23 0:14:5	CGameClient::ConnectTo OK
+2023-10-23 0:16:18	CConnectManager::Cleanup OK
+2023-10-23 0:16:18	CGameClient::Startup - OK
+2023-10-23 0:16:18	CGameClient::ConnectTo OK
+2023-10-23 0:16:24	CGameClient::Startup - OK
+2023-10-23 0:16:24	CGameClient::ConnectTo OK
+2023-10-23 0:16:24	CConnectManager::Cleanup OK
+2023-10-23 8:19:54	CConnectManager::Cleanup OK
+2023-10-23 8:19:54	CGameClient::Startup - OK
+2023-10-23 8:19:54	CGameClient::ConnectTo OK
+2023-10-23 8:24:21	CConnectManager::Cleanup OK
+2023-10-23 8:24:21	CGameClient::Startup - OK
+2023-10-23 8:24:21	CGameClient::ConnectTo OK
+2023-10-23 8:24:28	CConnectManager::Cleanup OK
+2023-10-23 8:24:28	CGameClient::Startup - OK
+2023-10-23 8:24:28	CGameClient::ConnectTo OK
+2023-10-23 8:26:14	CConnectManager::Cleanup OK
+2023-10-23 8:26:14	CGameClient::Startup - OK
+2023-10-23 8:26:14	CGameClient::ConnectTo OK
+2023-10-23 8:26:38	CConnectManager::Cleanup OK
+2023-10-23 8:26:38	CGameClient::Startup - OK
+2023-10-23 8:26:38	CGameClient::ConnectTo OK
+2023-10-23 8:30:10	CConnectManager::Cleanup OK
+2023-10-23 8:30:10	CGameClient::Startup - OK
+2023-10-23 8:30:10	CGameClient::ConnectTo OK
+2023-10-23 8:30:13	CConnectManager::Cleanup OK
+2023-10-23 8:30:13	CGameClient::Startup - OK
+2023-10-23 8:30:14	CGameClient::ConnectTo OK
+2023-10-23 8:43:14	CConnectManager::Cleanup OK
+2023-10-23 8:43:14	CGameClient::Startup - OK
+2023-10-23 8:43:14	CGameClient::ConnectTo OK
+2023-10-23 8:43:17	CConnectManager::Cleanup OK
+2023-10-23 8:43:17	CGameClient::Startup - OK
+2023-10-23 8:43:17	CGameClient::ConnectTo OK
+2023-10-23 8:51:20	CConnectManager::Cleanup OK
+2023-10-23 8:51:20	CGameClient::Startup - OK
+2023-10-23 8:51:20	CGameClient::ConnectTo OK
+2023-10-23 9:2:47	CConnectManager::Cleanup OK
+2023-10-23 9:2:51	CGameClient::Startup - OK
+2023-10-23 9:3:6	CConnectManager::Cleanup OK
+2023-10-23 9:3:6	CGameClient::Startup - OK
+2023-10-23 9:3:21	CConnectManager::Cleanup OK
+2023-10-23 9:3:21	CGameClient::Startup - OK
+2023-10-23 9:3:28	CGameClient::ConnectTo OK
+2023-10-23 9:3:31	CConnectManager::Cleanup OK
+2023-10-23 9:3:36	CGameClient::Startup - OK
+2023-10-23 9:3:56	CConnectManager::Cleanup OK
+2023-10-23 9:3:56	CGameClient::Startup - OK
+2023-10-23 9:4:16	CConnectManager::Cleanup OK
+2023-10-23 9:4:16	CGameClient::Startup - OK
+2023-10-23 9:4:36	CConnectManager::Cleanup OK
+2023-10-23 9:4:36	CGameClient::Startup - OK
+2023-10-23 9:4:56	CConnectManager::Cleanup OK
+2023-10-23 9:4:56	CGameClient::Startup - OK
+2023-10-23 9:5:17	CConnectManager::Cleanup OK
+2023-10-23 9:5:17	CGameClient::Startup - OK
+2023-10-23 9:5:37	CConnectManager::Cleanup OK
+2023-10-23 9:5:37	CGameClient::Startup - OK
+2023-10-23 9:5:57	CConnectManager::Cleanup OK
+2023-10-23 9:5:57	CGameClient::Startup - OK
+2023-10-23 9:6:17	CConnectManager::Cleanup OK
+2023-10-23 9:6:17	CGameClient::Startup - OK
+2023-10-23 9:6:37	CConnectManager::Cleanup OK
+2023-10-23 9:6:37	CGameClient::Startup - OK
+2023-10-23 9:6:57	CConnectManager::Cleanup OK
+2023-10-23 9:6:57	CGameClient::Startup - OK
+2023-10-23 9:8:17	CConnectManager::Cleanup OK
+2023-10-23 9:8:17	CGameClient::Startup - OK
+2023-10-23 9:8:31	CConnectManager::Cleanup OK
+2023-10-23 9:8:31	CGameClient::Startup - OK
+2023-10-23 9:8:42	CConnectManager::Cleanup OK
+2023-10-23 9:8:42	CGameClient::Startup - OK
+2023-10-23 9:8:53	CConnectManager::Cleanup OK
+2023-10-23 9:8:53	CGameClient::Startup - OK
+2023-10-23 9:9:13	CConnectManager::Cleanup OK
+2023-10-23 9:9:13	CGameClient::Startup - OK
+2023-10-23 9:9:16	CGameClient::ConnectTo OK
+2023-10-23 9:9:19	CGameClient::Startup - OK
+2023-10-23 9:9:19	CGameClient::ConnectTo OK
+2023-10-23 9:9:19	CConnectManager::Cleanup OK
+2023-10-23 9:21:41	CConnectManager::Cleanup OK
+2023-10-23 9:21:41	CGameClient::Startup - OK
+2023-10-23 9:21:41	CGameClient::ConnectTo OK
+2023-10-23 9:21:43	CGameClient::Startup - OK
+2023-10-23 9:21:43	CGameClient::ConnectTo OK
+2023-10-23 9:21:43	CConnectManager::Cleanup OK
+2023-10-23 9:25:4	CConnectManager::Cleanup OK
+2023-10-23 9:25:4	CGameClient::Startup - OK
+2023-10-23 9:25:4	CGameClient::ConnectTo OK
+2023-10-23 9:25:6	CGameClient::Startup - OK
+2023-10-23 9:25:6	CGameClient::ConnectTo OK
+2023-10-23 9:25:6	CConnectManager::Cleanup OK
+2023-10-23 9:25:17	CConnectManager::Cleanup OK
+2023-10-23 9:25:17	CGameClient::Startup - OK
+2023-10-23 9:25:17	CGameClient::ConnectTo OK
+2023-10-23 9:26:58	CConnectManager::Cleanup OK
+2023-10-23 9:26:58	CGameClient::Startup - OK
+2023-10-23 9:26:58	CGameClient::ConnectTo OK
+2023-10-23 9:37:20	CConnectManager::Cleanup OK
+2023-10-23 9:37:24	CGameClient::Startup - OK
+2023-10-23 9:37:39	CConnectManager::Cleanup OK
+2023-10-23 9:37:39	CGameClient::Startup - OK
+2023-10-23 9:37:54	CConnectManager::Cleanup OK
+2023-10-23 9:37:54	CGameClient::Startup - OK
+2023-10-23 9:37:57	CGameClient::ConnectTo OK
+2023-10-23 9:38:1	CConnectManager::Cleanup OK
+2023-10-23 9:38:6	CGameClient::Startup - OK
+2023-10-23 9:38:6	CGameClient::ConnectTo OK
+2023-10-23 9:38:9	CConnectManager::Cleanup OK
+2023-10-23 9:38:19	CGameClient::Startup - OK
+2023-10-23 9:38:39	CConnectManager::Cleanup OK
+2023-10-23 9:38:39	CGameClient::Startup - OK
+2023-10-23 9:38:59	CConnectManager::Cleanup OK
+2023-10-23 9:38:59	CGameClient::Startup - OK
+2023-10-23 9:39:19	CConnectManager::Cleanup OK
+2023-10-23 9:39:19	CGameClient::Startup - OK
+2023-10-23 9:39:40	CConnectManager::Cleanup OK
+2023-10-23 9:39:40	CGameClient::Startup - OK
+2023-10-23 9:40:0	CConnectManager::Cleanup OK
+2023-10-23 9:40:0	CGameClient::Startup - OK
+2023-10-23 9:40:20	CConnectManager::Cleanup OK
+2023-10-23 9:40:20	CGameClient::Startup - OK
+2023-10-23 9:40:32	CConnectManager::Cleanup OK
+2023-10-23 9:40:32	CGameClient::Startup - OK
+2023-10-23 9:40:43	CConnectManager::Cleanup OK
+2023-10-23 9:40:43	CGameClient::Startup - OK
+2023-10-23 9:40:55	CConnectManager::Cleanup OK
+2023-10-23 9:40:55	CGameClient::Startup - OK
+2023-10-23 9:42:15	CConnectManager::Cleanup OK
+2023-10-23 9:42:15	CGameClient::Startup - OK
+2023-10-23 9:42:35	CConnectManager::Cleanup OK
+2023-10-23 9:42:35	CGameClient::Startup - OK
+2023-10-23 9:42:55	CConnectManager::Cleanup OK
+2023-10-23 9:42:55	CGameClient::Startup - OK
+2023-10-23 9:43:13	CConnectManager::Cleanup OK
+2023-10-23 9:43:13	CGameClient::Startup - OK
+2023-10-23 9:43:25	CConnectManager::Cleanup OK
+2023-10-23 9:43:25	CGameClient::Startup - OK
+2023-10-23 9:43:46	CConnectManager::Cleanup OK
+2023-10-23 9:43:46	CGameClient::Startup - OK
+2023-10-23 9:44:6	CConnectManager::Cleanup OK
+2023-10-23 9:44:6	CGameClient::Startup - OK
+2023-10-23 9:44:17	CConnectManager::Cleanup OK
+2023-10-23 9:44:17	CGameClient::Startup - OK
+2023-10-23 9:44:37	CConnectManager::Cleanup OK
+2023-10-23 9:44:37	CGameClient::Startup - OK
+2023-10-23 9:44:57	CConnectManager::Cleanup OK
+2023-10-23 9:44:57	CGameClient::Startup - OK
+2023-10-23 9:45:18	CConnectManager::Cleanup OK
+2023-10-23 9:45:18	CGameClient::Startup - OK
+2023-10-23 9:46:38	CConnectManager::Cleanup OK
+2023-10-23 9:46:38	CGameClient::Startup - OK
+2023-10-23 9:46:52	CConnectManager::Cleanup OK
+2023-10-23 9:46:52	CGameClient::Startup - OK
+2023-10-23 9:47:3	CConnectManager::Cleanup OK
+2023-10-23 9:47:3	CGameClient::Startup - OK
+2023-10-23 9:47:23	CConnectManager::Cleanup OK
+2023-10-23 9:47:23	CGameClient::Startup - OK
+2023-10-23 9:47:43	CConnectManager::Cleanup OK
+2023-10-23 9:47:43	CGameClient::Startup - OK
+2023-10-23 9:48:3	CConnectManager::Cleanup OK
+2023-10-23 9:48:3	CGameClient::Startup - OK
+2023-10-23 9:48:23	CConnectManager::Cleanup OK
+2023-10-23 9:48:23	CGameClient::Startup - OK
+2023-10-23 9:48:43	CConnectManager::Cleanup OK
+2023-10-23 9:48:43	CGameClient::Startup - OK
+2023-10-23 9:48:54	CConnectManager::Cleanup OK
+2023-10-23 9:48:54	CGameClient::Startup - OK
+2023-10-23 9:49:14	CConnectManager::Cleanup OK
+2023-10-23 9:49:14	CGameClient::Startup - OK
+2023-10-23 9:49:32	CConnectManager::Cleanup OK
+2023-10-23 9:49:32	CGameClient::Startup - OK
+2023-10-23 9:50:52	CConnectManager::Cleanup OK
+2023-10-23 9:50:52	CGameClient::Startup - OK
+2023-10-23 9:50:53	CGameClient::ConnectTo OK
+2023-10-23 9:50:54	CGameClient::Startup - OK
+2023-10-23 9:50:54	CGameClient::ConnectTo OK
+2023-10-23 9:50:54	CConnectManager::Cleanup OK
+2023-10-23 10:58:55	CConnectManager::Cleanup OK
+2023-10-23 10:58:55	CGameClient::Startup - OK
+2023-10-23 10:58:55	CGameClient::ConnectTo OK
+2023-10-23 11:0:19	CConnectManager::Cleanup OK
+2023-10-23 11:0:19	CGameClient::Startup - OK
+2023-10-23 11:0:19	CGameClient::ConnectTo OK
+2023-10-23 11:1:19	CConnectManager::Cleanup OK
+2023-10-23 11:1:19	CGameClient::Startup - OK
+2023-10-23 11:1:19	CGameClient::ConnectTo OK
+2023-10-23 11:1:21	CGameClient::Startup - OK
+2023-10-23 11:1:21	CGameClient::ConnectTo OK
+2023-10-23 11:1:21	CConnectManager::Cleanup OK
+2023-10-23 11:5:9	CConnectManager::Cleanup OK
+2023-10-23 11:5:9	CGameClient::Startup - OK
+2023-10-23 11:5:9	CGameClient::ConnectTo OK
+2023-10-24 8:2:46	CConnectManager::Cleanup OK
+2023-10-24 8:2:46	CGameClient::Startup - OK
+2023-10-24 8:2:46	CGameClient::ConnectTo OK
+2023-10-24 8:2:47	CGameClient::Startup - OK
+2023-10-24 8:2:47	CGameClient::ConnectTo OK
+2023-10-24 8:2:47	CConnectManager::Cleanup OK
+2023-10-24 8:6:32	CConnectManager::Cleanup OK
+2023-10-24 8:6:32	CGameClient::Startup - OK
+2023-10-24 8:6:32	CGameClient::ConnectTo OK
+2023-10-24 8:7:50	CConnectManager::Cleanup OK
+2023-10-24 8:7:50	CGameClient::Startup - OK
+2023-10-24 8:7:50	CGameClient::ConnectTo OK
+2023-10-24 8:7:52	CGameClient::Startup - OK
+2023-10-24 8:7:52	CGameClient::ConnectTo OK
+2023-10-24 8:7:52	CConnectManager::Cleanup OK
+2023-10-24 8:16:35	CConnectManager::Cleanup OK
+2023-10-24 8:16:35	CGameClient::Startup - OK
+2023-10-24 8:16:35	CGameClient::ConnectTo OK
+2023-10-24 8:40:11	CConnectManager::Cleanup OK
+2023-10-24 8:40:11	CGameClient::Startup - OK
+2023-10-24 8:40:11	CGameClient::ConnectTo OK
+2023-10-24 8:40:12	CGameClient::Startup - OK
+2023-10-24 8:40:12	CGameClient::ConnectTo OK
+2023-10-24 8:40:12	CConnectManager::Cleanup OK
+2023-10-24 8:40:44	CConnectManager::Cleanup OK
+2023-10-24 8:40:44	CGameClient::Startup - OK
+2023-10-24 8:40:44	CGameClient::ConnectTo OK
+2023-10-24 8:41:39	CConnectManager::Cleanup OK
+2023-10-24 8:41:39	CGameClient::Startup - OK
+2023-10-24 8:41:39	CGameClient::ConnectTo OK
+2023-10-24 8:41:45	CConnectManager::Cleanup OK
+2023-10-24 8:41:45	CGameClient::Startup - OK
+2023-10-24 8:41:45	CGameClient::ConnectTo OK
+2023-10-24 8:42:5	CConnectManager::Cleanup OK
+2023-10-24 8:42:5	CGameClient::Startup - OK
+2023-10-24 8:42:5	CGameClient::ConnectTo OK
+2023-10-24 8:42:56	CConnectManager::Cleanup OK
+2023-10-24 8:42:56	CGameClient::Startup - OK
+2023-10-24 8:42:56	CGameClient::ConnectTo OK
+2023-10-24 8:43:20	CConnectManager::Cleanup OK
+2023-10-24 8:43:20	CGameClient::Startup - OK
+2023-10-24 8:43:20	CGameClient::ConnectTo OK
+2023-10-24 8:44:32	CConnectManager::Cleanup OK
+2023-10-24 8:44:32	CGameClient::Startup - OK
+2023-10-24 8:44:32	CGameClient::ConnectTo OK
+2023-10-24 8:44:49	CConnectManager::Cleanup OK
+2023-10-24 8:44:49	CGameClient::Startup - OK
+2023-10-24 8:44:49	CGameClient::ConnectTo OK
+2023-10-24 8:45:42	CConnectManager::Cleanup OK
+2023-10-24 8:45:42	CGameClient::Startup - OK
+2023-10-24 8:45:42	CGameClient::ConnectTo OK
+2023-10-24 8:46:58	CConnectManager::Cleanup OK
+2023-10-24 8:46:58	CGameClient::Startup - OK
+2023-10-24 8:46:58	CGameClient::ConnectTo OK
+2023-10-24 8:48:14	CConnectManager::Cleanup OK
+2023-10-24 8:48:14	CGameClient::Startup - OK
+2023-10-24 8:48:14	CGameClient::ConnectTo OK
+2023-10-24 8:50:49	CConnectManager::Cleanup OK
+2023-10-24 8:50:49	CGameClient::Startup - OK
+2023-10-24 8:50:49	CGameClient::ConnectTo OK
+2023-10-24 9:2:49	CConnectManager::Cleanup OK
+2023-10-24 9:2:51	CGameClient::Startup - OK
+2023-10-24 9:3:6	CConnectManager::Cleanup OK
+2023-10-24 9:3:7	CGameClient::Startup - OK
+2023-10-24 9:3:22	CConnectManager::Cleanup OK
+2023-10-24 9:3:22	CGameClient::Startup - OK
+2023-10-24 9:3:37	CConnectManager::Cleanup OK
+2023-10-24 9:3:37	CGameClient::Startup - OK
+2023-10-24 9:3:57	CConnectManager::Cleanup OK
+2023-10-24 9:3:57	CGameClient::Startup - OK
+2023-10-24 9:4:17	CConnectManager::Cleanup OK
+2023-10-24 9:4:17	CGameClient::Startup - OK
+2023-10-24 9:4:37	CConnectManager::Cleanup OK
+2023-10-24 9:4:37	CGameClient::Startup - OK
+2023-10-24 9:4:57	CConnectManager::Cleanup OK
+2023-10-24 9:4:57	CGameClient::Startup - OK
+2023-10-24 9:5:17	CConnectManager::Cleanup OK
+2023-10-24 9:5:17	CGameClient::Startup - OK
+2023-10-24 9:5:37	CConnectManager::Cleanup OK
+2023-10-24 9:5:37	CGameClient::Startup - OK
+2023-10-24 9:5:57	CConnectManager::Cleanup OK
+2023-10-24 9:5:57	CGameClient::Startup - OK
+2023-10-24 9:6:17	CConnectManager::Cleanup OK
+2023-10-24 9:6:17	CGameClient::Startup - OK
+2023-10-24 9:6:37	CConnectManager::Cleanup OK
+2023-10-24 9:6:37	CGameClient::Startup - OK
+2023-10-24 9:6:57	CConnectManager::Cleanup OK
+2023-10-24 9:6:57	CGameClient::Startup - OK
+2023-10-24 9:8:17	CConnectManager::Cleanup OK
+2023-10-24 9:8:17	CGameClient::Startup - OK
+2023-10-24 9:8:37	CConnectManager::Cleanup OK
+2023-10-24 9:8:37	CGameClient::Startup - OK
+2023-10-24 9:8:57	CConnectManager::Cleanup OK
+2023-10-24 9:8:57	CGameClient::Startup - OK
+2023-10-24 9:9:17	CConnectManager::Cleanup OK
+2023-10-24 9:9:17	CGameClient::Startup - OK
+2023-10-24 9:9:37	CConnectManager::Cleanup OK
+2023-10-24 9:9:37	CGameClient::Startup - OK
+2023-10-24 9:9:58	CConnectManager::Cleanup OK
+2023-10-24 9:9:58	CGameClient::Startup - OK
+2023-10-24 9:10:1	CGameClient::ConnectTo OK
+2023-10-24 9:10:3	CGameClient::Startup - OK
+2023-10-24 9:10:3	CGameClient::ConnectTo OK
+2023-10-24 9:10:3	CConnectManager::Cleanup OK
+2023-10-24 22:44:28	CGameClient::Startup - OK
+2023-10-24 22:44:28	CGameClient::ConnectTo OK
+2023-10-24 22:44:38	CGameClient::Startup - OK
+2023-10-24 22:44:38	CGameClient::ConnectTo OK
+2023-10-24 22:44:38	CConnectManager::Cleanup OK
+2023-10-24 22:54:58	CConnectManager::Cleanup OK
+2023-10-24 22:54:58	CGameClient::Startup - OK
+2023-10-24 22:54:58	CGameClient::ConnectTo OK
+2023-10-24 22:55:20	CConnectManager::Cleanup OK
+2023-10-24 22:55:20	CGameClient::Startup - OK
+2023-10-24 22:55:20	CGameClient::ConnectTo OK
+2023-10-24 23:7:4	CConnectManager::Cleanup OK
+2023-10-24 23:7:4	CGameClient::Startup - OK
+2023-10-24 23:7:4	CGameClient::ConnectTo OK
+2023-10-24 23:7:25	CConnectManager::Cleanup OK
+2023-10-24 23:7:25	CGameClient::Startup - OK
+2023-10-24 23:7:25	CGameClient::ConnectTo OK
+2023-10-24 23:13:25	CConnectManager::Cleanup OK
+2023-10-24 23:13:25	CGameClient::Startup - OK
+2023-10-24 23:13:25	CGameClient::ConnectTo OK
+2023-10-24 23:13:26	CGameClient::Startup - OK
+2023-10-24 23:13:26	CGameClient::ConnectTo OK
+2023-10-24 23:13:26	CConnectManager::Cleanup OK
+2023-10-24 23:18:17	CConnectManager::Cleanup OK
+2023-10-24 23:18:17	CGameClient::Startup - OK
+2023-10-24 23:18:17	CGameClient::ConnectTo OK
+2023-10-24 23:18:19	CGameClient::Startup - OK
+2023-10-24 23:18:19	CGameClient::ConnectTo OK
+2023-10-24 23:18:19	CConnectManager::Cleanup OK
+2023-10-24 23:18:29	CConnectManager::Cleanup OK
+2023-10-24 23:18:29	CGameClient::Startup - OK
+2023-10-24 23:18:29	CGameClient::ConnectTo OK
+2023-10-24 23:18:33	CConnectManager::Cleanup OK
+2023-10-24 23:18:33	CGameClient::Startup - OK
+2023-10-24 23:18:33	CGameClient::ConnectTo OK
+2023-10-24 23:47:57	CConnectManager::Cleanup OK
+2023-10-24 23:47:57	CGameClient::Startup - OK
+2023-10-24 23:47:57	CGameClient::ConnectTo OK
+2023-10-24 23:48:2	CGameClient::Startup - OK
+2023-10-24 23:48:2	CGameClient::ConnectTo OK
+2023-10-24 23:48:2	CConnectManager::Cleanup OK
+2023-10-24 23:58:31	CConnectManager::Cleanup OK
+2023-10-24 23:58:31	CGameClient::Startup - OK
+2023-10-24 23:58:31	CGameClient::ConnectTo OK
+2023-10-24 23:59:29	CConnectManager::Cleanup OK
+2023-10-24 23:59:29	CGameClient::Startup - OK
+2023-10-24 23:59:29	CGameClient::ConnectTo OK
+2023-10-25 0:2:13	CConnectManager::Cleanup OK
+2023-10-25 0:2:13	CGameClient::Startup - OK
+2023-10-25 0:2:13	CGameClient::ConnectTo OK
+2023-10-25 0:6:48	CConnectManager::Cleanup OK
+2023-10-25 0:6:48	CGameClient::Startup - OK
+2023-10-25 0:6:48	CGameClient::ConnectTo OK
+2023-10-25 0:6:53	CGameClient::Startup - OK
+2023-10-25 0:6:53	CGameClient::ConnectTo OK
+2023-10-25 0:6:54	CConnectManager::Cleanup OK
+2023-10-25 0:10:2	CConnectManager::Cleanup OK
+2023-10-25 0:10:2	CGameClient::Startup - OK
+2023-10-25 0:10:2	CGameClient::ConnectTo OK
+2023-10-25 0:10:29	CGameClient::Startup - OK
+2023-10-25 0:10:29	CGameClient::ConnectTo OK
+2023-10-25 0:10:35	CGameClient::Startup - OK
+2023-10-25 0:10:36	CGameClient::ConnectTo OK
+2023-10-25 0:10:36	CConnectManager::Cleanup OK
+2023-10-25 0:10:43	CConnectManager::Cleanup OK
+2023-10-25 0:10:43	CGameClient::Startup - OK
+2023-10-25 0:10:43	CGameClient::ConnectTo OK
+2023-10-25 0:11:51	CConnectManager::Cleanup OK
+2023-10-25 0:11:51	CGameClient::Startup - OK
+2023-10-25 0:11:51	CGameClient::ConnectTo OK
+2023-10-25 0:12:48	CGameClient::Startup - OK
+2023-10-25 0:12:48	CGameClient::ConnectTo OK
+2023-10-25 0:12:54	CGameClient::Startup - OK
+2023-10-25 0:12:55	CGameClient::ConnectTo OK
+2023-10-25 0:12:55	CConnectManager::Cleanup OK
+2023-10-26 19:47:34	CGameClient::Startup - OK
+2023-10-26 19:47:34	CGameClient::ConnectTo OK
+2023-10-26 19:47:41	CGameClient::Startup - OK
+2023-10-26 19:47:41	CGameClient::ConnectTo OK
+2023-10-26 19:47:41	CConnectManager::Cleanup OK
+2023-10-26 19:47:49	CConnectManager::Cleanup OK
+2023-10-26 19:47:49	CGameClient::Startup - OK
+2023-10-26 19:47:49	CGameClient::ConnectTo OK
+2023-10-26 19:48:17	CConnectManager::Cleanup OK
+2023-10-26 19:48:17	CGameClient::Startup - OK
+2023-10-26 19:48:17	CGameClient::ConnectTo OK
+2023-10-26 19:49:22	CConnectManager::Cleanup OK
+2023-10-26 19:49:22	CGameClient::Startup - OK
+2023-10-26 19:49:22	CGameClient::ConnectTo OK
+2023-10-26 19:49:38	CConnectManager::Cleanup OK
+2023-10-26 19:49:38	CGameClient::Startup - OK
+2023-10-26 19:49:38	CGameClient::ConnectTo OK
+2023-10-26 19:51:44	CConnectManager::Cleanup OK
+2023-10-26 19:51:44	CGameClient::Startup - OK
+2023-10-26 19:51:44	CGameClient::ConnectTo OK
+2023-10-26 19:55:0	CConnectManager::Cleanup OK
+2023-10-26 19:55:0	CGameClient::Startup - OK
+2023-10-26 19:55:0	CGameClient::ConnectTo OK
+2023-10-26 19:55:15	CConnectManager::Cleanup OK
+2023-10-26 19:55:15	CGameClient::Startup - OK
+2023-10-26 19:55:15	CGameClient::ConnectTo OK
+2023-10-26 19:57:53	CConnectManager::Cleanup OK
+2023-10-26 19:57:53	CGameClient::Startup - OK
+2023-10-26 19:57:53	CGameClient::ConnectTo OK
+2023-10-26 19:58:20	CConnectManager::Cleanup OK
+2023-10-26 19:58:20	CGameClient::Startup - OK
+2023-10-26 19:58:20	CGameClient::ConnectTo OK
+2023-10-26 19:58:46	CConnectManager::Cleanup OK
+2023-10-26 19:58:46	CGameClient::Startup - OK
+2023-10-26 19:58:46	CGameClient::ConnectTo OK
+2023-10-26 19:59:36	CConnectManager::Cleanup OK
+2023-10-26 19:59:36	CGameClient::Startup - OK
+2023-10-26 19:59:36	CGameClient::ConnectTo OK
+2023-10-26 20:0:37	CConnectManager::Cleanup OK
+2023-10-26 20:0:37	CGameClient::Startup - OK
+2023-10-26 20:0:37	CGameClient::ConnectTo OK
+2023-10-26 20:0:47	CConnectManager::Cleanup OK
+2023-10-26 20:0:47	CGameClient::Startup - OK
+2023-10-26 20:0:47	CGameClient::ConnectTo OK
+2023-10-26 20:1:16	CConnectManager::Cleanup OK
+2023-10-26 20:1:16	CGameClient::Startup - OK
+2023-10-26 20:1:16	CGameClient::ConnectTo OK
+2023-10-26 20:1:48	CConnectManager::Cleanup OK
+2023-10-26 20:1:48	CGameClient::Startup - OK
+2023-10-26 20:1:48	CGameClient::ConnectTo OK
+2023-10-26 20:2:15	CConnectManager::Cleanup OK
+2023-10-26 20:2:15	CGameClient::Startup - OK
+2023-10-26 20:2:15	CGameClient::ConnectTo OK
+2023-10-26 20:2:26	CConnectManager::Cleanup OK
+2023-10-26 20:2:26	CGameClient::Startup - OK
+2023-10-26 20:2:26	CGameClient::ConnectTo OK
+2023-10-26 20:6:39	CConnectManager::Cleanup OK
+2023-10-26 20:6:39	CGameClient::Startup - OK
+2023-10-26 20:6:40	CGameClient::ConnectTo OK
+2023-10-26 20:14:17	CConnectManager::Cleanup OK
+2023-10-26 20:14:17	CGameClient::Startup - OK
+2023-10-26 20:14:17	CGameClient::ConnectTo OK
+2023-10-26 20:14:42	CConnectManager::Cleanup OK
+2023-10-26 20:14:42	CGameClient::Startup - OK
+2023-10-26 20:14:42	CGameClient::ConnectTo OK
+2023-10-26 20:15:25	CConnectManager::Cleanup OK
+2023-10-26 20:15:25	CGameClient::Startup - OK
+2023-10-26 20:15:25	CGameClient::ConnectTo OK
+2023-10-26 20:15:40	CConnectManager::Cleanup OK
+2023-10-26 20:15:40	CGameClient::Startup - OK
+2023-10-26 20:15:40	CGameClient::ConnectTo OK
+2023-10-26 20:17:54	CConnectManager::Cleanup OK
+2023-10-26 20:17:54	CGameClient::Startup - OK
+2023-10-26 20:17:54	CGameClient::ConnectTo OK
+2023-10-26 20:18:9	CConnectManager::Cleanup OK
+2023-10-26 20:18:9	CGameClient::Startup - OK
+2023-10-26 20:18:9	CGameClient::ConnectTo OK
+2023-10-26 20:20:23	CConnectManager::Cleanup OK
+2023-10-26 20:20:23	CGameClient::Startup - OK
+2023-10-26 20:20:23	CGameClient::ConnectTo OK
+2023-10-26 20:31:2	CConnectManager::Cleanup OK
+2023-10-26 20:31:2	CGameClient::Startup - OK
+2023-10-26 20:31:2	CGameClient::ConnectTo OK
+2023-10-26 20:39:38	CConnectManager::Cleanup OK
+2023-10-26 20:39:38	CGameClient::Startup - OK
+2023-10-26 20:39:38	CGameClient::ConnectTo OK
+2023-10-26 20:40:8	CConnectManager::Cleanup OK
+2023-10-26 20:40:8	CGameClient::Startup - OK
+2023-10-26 20:40:8	CGameClient::ConnectTo OK
+2023-10-26 20:40:24	CConnectManager::Cleanup OK
+2023-10-26 20:40:24	CGameClient::Startup - OK
+2023-10-26 20:40:24	CGameClient::ConnectTo OK
+2023-10-26 20:41:23	CConnectManager::Cleanup OK
+2023-10-26 20:41:23	CGameClient::Startup - OK
+2023-10-26 20:41:23	CGameClient::ConnectTo OK
+2023-10-26 20:41:38	CConnectManager::Cleanup OK
+2023-10-26 20:41:38	CGameClient::Startup - OK
+2023-10-26 20:41:38	CGameClient::ConnectTo OK
+2023-10-26 20:43:42	CConnectManager::Cleanup OK
+2023-10-26 20:43:42	CGameClient::Startup - OK
+2023-10-26 20:43:42	CGameClient::ConnectTo OK
+2023-10-26 20:44:8	CConnectManager::Cleanup OK
+2023-10-26 20:44:8	CGameClient::Startup - OK
+2023-10-26 20:44:8	CGameClient::ConnectTo OK
+2023-10-26 20:44:35	CConnectManager::Cleanup OK
+2023-10-26 20:44:35	CGameClient::Startup - OK
+2023-10-26 20:44:35	CGameClient::ConnectTo OK
+2023-10-26 20:54:25	CConnectManager::Cleanup OK
+2023-10-26 20:54:25	CGameClient::Startup - OK
+2023-10-26 20:54:25	CGameClient::ConnectTo OK
+2023-10-26 20:54:34	CConnectManager::Cleanup OK
+2023-10-26 20:54:34	CGameClient::Startup - OK
+2023-10-26 20:54:34	CGameClient::ConnectTo OK
+2023-10-26 20:55:4	CConnectManager::Cleanup OK
+2023-10-26 20:55:4	CGameClient::Startup - OK
+2023-10-26 20:55:4	CGameClient::ConnectTo OK
+2023-10-26 20:55:47	CConnectManager::Cleanup OK
+2023-10-26 20:55:47	CGameClient::Startup - OK
+2023-10-26 20:55:47	CGameClient::ConnectTo OK
+2023-10-26 20:56:45	CConnectManager::Cleanup OK
+2023-10-26 20:56:45	CGameClient::Startup - OK
+2023-10-26 20:56:45	CGameClient::ConnectTo OK
+2023-10-26 20:57:0	CConnectManager::Cleanup OK
+2023-10-26 20:57:0	CGameClient::Startup - OK
+2023-10-26 20:57:1	CGameClient::ConnectTo OK
+2023-10-26 20:59:48	CConnectManager::Cleanup OK
+2023-10-26 20:59:48	CGameClient::Startup - OK
+2023-10-26 20:59:48	CGameClient::ConnectTo OK
+2023-10-26 21:0:11	CConnectManager::Cleanup OK
+2023-10-26 21:0:11	CGameClient::Startup - OK
+2023-10-26 21:0:11	CGameClient::ConnectTo OK
+2023-10-26 21:20:23	CConnectManager::Cleanup OK
+2023-10-26 21:20:23	CGameClient::Startup - OK
+2023-10-26 21:20:23	CGameClient::ConnectTo OK
+2023-10-26 21:21:37	CConnectManager::Cleanup OK
+2023-10-26 21:21:37	CGameClient::Startup - OK
+2023-10-26 21:21:37	CGameClient::ConnectTo OK
+2023-10-26 21:22:6	CConnectManager::Cleanup OK
+2023-10-26 21:22:6	CGameClient::Startup - OK
+2023-10-26 21:22:6	CGameClient::ConnectTo OK
+2023-10-26 21:26:30	CGameClient::Startup - OK
+2023-10-26 21:26:30	CGameClient::ConnectTo OK
+2023-10-26 21:26:39	CGameClient::Startup - OK
+2023-10-26 21:26:39	CGameClient::ConnectTo OK
+2023-10-26 21:26:39	CConnectManager::Cleanup OK
+2023-10-26 21:26:46	CConnectManager::Cleanup OK
+2023-10-26 21:26:46	CGameClient::Startup - OK
+2023-10-26 21:26:46	CGameClient::ConnectTo OK
+2023-10-26 22:6:38	CConnectManager::Cleanup OK
+2023-10-26 22:6:38	CGameClient::Startup - OK
+2023-10-26 22:6:38	CGameClient::ConnectTo OK
+2023-10-26 22:7:20	CConnectManager::Cleanup OK
+2023-10-26 22:7:20	CGameClient::Startup - OK
+2023-10-26 22:7:20	CGameClient::ConnectTo OK
+2023-10-26 22:9:5	CConnectManager::Cleanup OK
+2023-10-26 22:9:5	CGameClient::Startup - OK
+2023-10-26 22:9:5	CGameClient::ConnectTo OK
+2023-10-26 22:9:48	CConnectManager::Cleanup OK
+2023-10-26 22:9:48	CGameClient::Startup - OK
+2023-10-26 22:9:48	CGameClient::ConnectTo OK
+2023-10-26 22:10:3	CConnectManager::Cleanup OK
+2023-10-26 22:10:3	CGameClient::Startup - OK
+2023-10-26 22:10:3	CGameClient::ConnectTo OK
+2023-10-26 22:13:50	CConnectManager::Cleanup OK
+2023-10-26 22:13:50	CGameClient::Startup - OK
+2023-10-26 22:13:51	CGameClient::ConnectTo OK
+2023-10-26 22:14:17	CConnectManager::Cleanup OK
+2023-10-26 22:14:17	CGameClient::Startup - OK
+2023-10-26 22:14:18	CGameClient::ConnectTo OK
+2023-10-26 22:15:1	CConnectManager::Cleanup OK
+2023-10-26 22:15:1	CGameClient::Startup - OK
+2023-10-26 22:15:1	CGameClient::ConnectTo OK
+2023-10-26 22:15:28	CConnectManager::Cleanup OK
+2023-10-26 22:15:28	CGameClient::Startup - OK
+2023-10-26 22:15:28	CGameClient::ConnectTo OK
+2023-10-26 22:15:57	CConnectManager::Cleanup OK
+2023-10-26 22:15:57	CGameClient::Startup - OK
+2023-10-26 22:15:57	CGameClient::ConnectTo OK
+2023-10-26 22:16:30	CConnectManager::Cleanup OK
+2023-10-26 22:16:30	CGameClient::Startup - OK
+2023-10-26 22:16:30	CGameClient::ConnectTo OK
+2023-10-26 22:16:59	CConnectManager::Cleanup OK
+2023-10-26 22:16:59	CGameClient::Startup - OK
+2023-10-26 22:16:59	CGameClient::ConnectTo OK
+2023-10-26 22:17:59	CConnectManager::Cleanup OK
+2023-10-26 22:17:59	CGameClient::Startup - OK
+2023-10-26 22:17:59	CGameClient::ConnectTo OK
+2023-10-26 22:18:14	CConnectManager::Cleanup OK
+2023-10-26 22:18:14	CGameClient::Startup - OK
+2023-10-26 22:18:14	CGameClient::ConnectTo OK
+2023-10-26 22:24:16	CConnectManager::Cleanup OK
+2023-10-26 22:24:16	CGameClient::Startup - OK
+2023-10-26 22:24:16	CGameClient::ConnectTo OK
+2023-10-26 22:24:44	CConnectManager::Cleanup OK
+2023-10-26 22:24:44	CGameClient::Startup - OK
+2023-10-26 22:24:44	CGameClient::ConnectTo OK
+2023-10-26 22:25:14	CConnectManager::Cleanup OK
+2023-10-26 22:25:14	CGameClient::Startup - OK
+2023-10-26 22:25:14	CGameClient::ConnectTo OK
+2023-10-26 22:25:59	CConnectManager::Cleanup OK
+2023-10-26 22:25:59	CGameClient::Startup - OK
+2023-10-26 22:25:59	CGameClient::ConnectTo OK
+2023-10-26 22:26:33	CConnectManager::Cleanup OK
+2023-10-26 22:26:33	CGameClient::Startup - OK
+2023-10-26 22:26:34	CGameClient::ConnectTo OK
+2023-10-26 22:27:17	CConnectManager::Cleanup OK
+2023-10-26 22:27:17	CGameClient::Startup - OK
+2023-10-26 22:27:17	CGameClient::ConnectTo OK
+2023-10-26 22:27:33	CConnectManager::Cleanup OK
+2023-10-26 22:27:33	CGameClient::Startup - OK
+2023-10-26 22:27:33	CGameClient::ConnectTo OK
+2023-10-26 22:35:46	CConnectManager::Cleanup OK
+2023-10-26 22:35:46	CGameClient::Startup - OK
+2023-10-26 22:35:46	CGameClient::ConnectTo OK
+2023-10-26 22:36:44	CConnectManager::Cleanup OK
+2023-10-26 22:36:44	CGameClient::Startup - OK
+2023-10-26 22:36:44	CGameClient::ConnectTo OK
+2023-10-26 22:37:14	CConnectManager::Cleanup OK
+2023-10-26 22:37:14	CGameClient::Startup - OK
+2023-10-26 22:37:14	CGameClient::ConnectTo OK
+2023-10-26 22:38:16	CConnectManager::Cleanup OK
+2023-10-26 22:38:16	CGameClient::Startup - OK
+2023-10-26 22:38:16	CGameClient::ConnectTo OK
+2023-10-26 22:38:32	CConnectManager::Cleanup OK
+2023-10-26 22:38:32	CGameClient::Startup - OK
+2023-10-26 22:38:32	CGameClient::ConnectTo OK
+2023-10-26 22:42:35	CConnectManager::Cleanup OK
+2023-10-26 22:42:35	CGameClient::Startup - OK
+2023-10-26 22:42:35	CGameClient::ConnectTo OK
+2023-10-26 22:43:2	CConnectManager::Cleanup OK
+2023-10-26 22:43:2	CGameClient::Startup - OK
+2023-10-26 22:43:2	CGameClient::ConnectTo OK
+2023-10-26 22:43:32	CConnectManager::Cleanup OK
+2023-10-26 22:43:32	CGameClient::Startup - OK
+2023-10-26 22:43:32	CGameClient::ConnectTo OK
+2023-10-26 22:44:0	CConnectManager::Cleanup OK
+2023-10-26 22:44:0	CGameClient::Startup - OK
+2023-10-26 22:44:0	CGameClient::ConnectTo OK
+2023-10-26 22:50:6	CConnectManager::Cleanup OK
+2023-10-26 22:50:6	CGameClient::Startup - OK
+2023-10-26 22:50:6	CGameClient::ConnectTo OK
+2023-10-26 22:51:5	CConnectManager::Cleanup OK
+2023-10-26 22:51:5	CGameClient::Startup - OK
+2023-10-26 22:51:5	CGameClient::ConnectTo OK
+2023-10-26 22:51:20	CConnectManager::Cleanup OK
+2023-10-26 22:51:20	CGameClient::Startup - OK
+2023-10-26 22:51:20	CGameClient::ConnectTo OK
+2023-10-26 22:55:44	CConnectManager::Cleanup OK
+2023-10-26 22:55:44	CGameClient::Startup - OK
+2023-10-26 22:55:44	CGameClient::ConnectTo OK
+2023-10-26 22:56:12	CConnectManager::Cleanup OK
+2023-10-26 22:56:12	CGameClient::Startup - OK
+2023-10-26 22:56:12	CGameClient::ConnectTo OK
+2023-10-26 22:56:41	CConnectManager::Cleanup OK
+2023-10-26 22:56:41	CGameClient::Startup - OK
+2023-10-26 22:56:42	CGameClient::ConnectTo OK
+2023-10-26 22:57:9	CConnectManager::Cleanup OK
+2023-10-26 22:57:9	CGameClient::Startup - OK
+2023-10-26 22:57:9	CGameClient::ConnectTo OK
+2023-10-26 22:57:39	CConnectManager::Cleanup OK
+2023-10-26 22:57:39	CGameClient::Startup - OK
+2023-10-26 22:57:39	CGameClient::ConnectTo OK
+2023-10-26 22:58:41	CConnectManager::Cleanup OK
+2023-10-26 22:58:41	CGameClient::Startup - OK
+2023-10-26 22:58:41	CGameClient::ConnectTo OK
+2023-10-26 22:58:56	CConnectManager::Cleanup OK
+2023-10-26 22:58:56	CGameClient::Startup - OK
+2023-10-26 22:58:57	CGameClient::ConnectTo OK
+2023-10-26 23:3:21	CConnectManager::Cleanup OK
+2023-10-26 23:3:21	CGameClient::Startup - OK
+2023-10-26 23:3:21	CGameClient::ConnectTo OK
+2023-10-26 23:3:49	CConnectManager::Cleanup OK
+2023-10-26 23:3:49	CGameClient::Startup - OK
+2023-10-26 23:3:49	CGameClient::ConnectTo OK
+2023-10-26 23:4:19	CConnectManager::Cleanup OK
+2023-10-26 23:4:19	CGameClient::Startup - OK
+2023-10-26 23:4:19	CGameClient::ConnectTo OK
+2023-10-26 23:4:47	CConnectManager::Cleanup OK
+2023-10-26 23:4:47	CGameClient::Startup - OK
+2023-10-26 23:4:47	CGameClient::ConnectTo OK
+2023-10-26 23:18:31	CConnectManager::Cleanup OK
+2023-10-26 23:18:31	CGameClient::Startup - OK
+2023-10-26 23:18:31	CGameClient::ConnectTo OK
+2023-10-26 23:24:45	CConnectManager::Cleanup OK
+2023-10-26 23:24:45	CGameClient::Startup - OK
+2023-10-26 23:24:45	CGameClient::ConnectTo OK
+2023-10-26 23:26:13	CConnectManager::Cleanup OK
+2023-10-26 23:26:13	CGameClient::Startup - OK
+2023-10-26 23:26:13	CGameClient::ConnectTo OK
+2023-10-26 23:28:39	CConnectManager::Cleanup OK
+2023-10-26 23:28:39	CGameClient::Startup - OK
+2023-10-26 23:28:39	CGameClient::ConnectTo OK
+2023-10-26 23:31:23	CConnectManager::Cleanup OK
+2023-10-26 23:31:23	CGameClient::Startup - OK
+2023-10-26 23:31:24	CGameClient::ConnectTo OK
+2023-10-26 23:32:26	CConnectManager::Cleanup OK
+2023-10-26 23:32:26	CGameClient::Startup - OK
+2023-10-26 23:32:26	CGameClient::ConnectTo OK
+2023-10-26 23:32:41	CConnectManager::Cleanup OK
+2023-10-26 23:32:41	CGameClient::Startup - OK
+2023-10-26 23:32:41	CGameClient::ConnectTo OK
+2023-10-26 23:35:38	CConnectManager::Cleanup OK
+2023-10-26 23:35:38	CGameClient::Startup - OK
+2023-10-26 23:35:38	CGameClient::ConnectTo OK
+2023-10-26 23:36:6	CConnectManager::Cleanup OK
+2023-10-26 23:36:6	CGameClient::Startup - OK
+2023-10-26 23:36:6	CGameClient::ConnectTo OK
+2023-10-26 23:36:36	CConnectManager::Cleanup OK
+2023-10-26 23:36:36	CGameClient::Startup - OK
+2023-10-26 23:36:36	CGameClient::ConnectTo OK
+2023-10-26 23:38:51	CConnectManager::Cleanup OK
+2023-10-26 23:38:51	CGameClient::Startup - OK
+2023-10-26 23:38:51	CGameClient::ConnectTo OK
+2023-10-26 23:40:8	CConnectManager::Cleanup OK
+2023-10-26 23:40:8	CGameClient::Startup - OK
+2023-10-26 23:40:8	CGameClient::ConnectTo OK
+2023-10-26 23:41:10	CConnectManager::Cleanup OK
+2023-10-26 23:41:10	CGameClient::Startup - OK
+2023-10-26 23:41:10	CGameClient::ConnectTo OK
+2023-10-26 23:41:25	CConnectManager::Cleanup OK
+2023-10-26 23:41:25	CGameClient::Startup - OK
+2023-10-26 23:41:25	CGameClient::ConnectTo OK
+2023-10-26 23:46:45	CConnectManager::Cleanup OK
+2023-10-26 23:46:45	CGameClient::Startup - OK
+2023-10-26 23:46:45	CGameClient::ConnectTo OK
+2023-10-26 23:47:12	CConnectManager::Cleanup OK
+2023-10-26 23:47:12	CGameClient::Startup - OK
+2023-10-26 23:47:12	CGameClient::ConnectTo OK
+2023-10-26 23:47:42	CConnectManager::Cleanup OK
+2023-10-26 23:47:42	CGameClient::Startup - OK
+2023-10-26 23:47:42	CGameClient::ConnectTo OK
+2023-10-26 23:48:10	CConnectManager::Cleanup OK
+2023-10-26 23:48:10	CGameClient::Startup - OK
+2023-10-26 23:48:10	CGameClient::ConnectTo OK
+2023-10-26 23:48:40	CConnectManager::Cleanup OK
+2023-10-26 23:48:40	CGameClient::Startup - OK
+2023-10-26 23:48:40	CGameClient::ConnectTo OK
+2023-10-26 23:49:42	CConnectManager::Cleanup OK
+2023-10-26 23:49:42	CGameClient::Startup - OK
+2023-10-26 23:49:42	CGameClient::ConnectTo OK
+2023-10-26 23:49:57	CConnectManager::Cleanup OK
+2023-10-26 23:49:57	CGameClient::Startup - OK
+2023-10-26 23:49:58	CGameClient::ConnectTo OK
+2023-10-26 23:53:19	CConnectManager::Cleanup OK
+2023-10-26 23:53:19	CGameClient::Startup - OK
+2023-10-26 23:53:19	CGameClient::ConnectTo OK
+2023-10-26 23:53:50	CConnectManager::Cleanup OK
+2023-10-26 23:53:50	CGameClient::Startup - OK
+2023-10-26 23:53:50	CGameClient::ConnectTo OK
+2023-10-26 23:54:20	CConnectManager::Cleanup OK
+2023-10-26 23:54:20	CGameClient::Startup - OK
+2023-10-26 23:54:20	CGameClient::ConnectTo OK
+2023-10-26 23:54:47	CConnectManager::Cleanup OK
+2023-10-26 23:54:47	CGameClient::Startup - OK
+2023-10-26 23:54:47	CGameClient::ConnectTo OK
+2023-10-26 23:55:17	CConnectManager::Cleanup OK
+2023-10-26 23:55:17	CGameClient::Startup - OK
+2023-10-26 23:55:17	CGameClient::ConnectTo OK
+2023-10-26 23:56:19	CConnectManager::Cleanup OK
+2023-10-26 23:56:19	CGameClient::Startup - OK
+2023-10-26 23:56:19	CGameClient::ConnectTo OK
+2023-10-26 23:56:34	CConnectManager::Cleanup OK
+2023-10-26 23:56:34	CGameClient::Startup - OK
+2023-10-26 23:56:34	CGameClient::ConnectTo OK
+2023-10-26 23:59:19	CConnectManager::Cleanup OK
+2023-10-26 23:59:19	CGameClient::Startup - OK
+2023-10-26 23:59:19	CGameClient::ConnectTo OK
+2023-10-26 23:59:46	CConnectManager::Cleanup OK
+2023-10-26 23:59:46	CGameClient::Startup - OK
+2023-10-26 23:59:46	CGameClient::ConnectTo OK
+2023-10-27 0:0:16	CConnectManager::Cleanup OK
+2023-10-27 0:0:16	CGameClient::Startup - OK
+2023-10-27 0:0:16	CGameClient::ConnectTo OK
+2023-10-27 0:0:44	CConnectManager::Cleanup OK
+2023-10-27 0:0:44	CGameClient::Startup - OK
+2023-10-27 0:0:44	CGameClient::ConnectTo OK
+2023-10-27 0:1:12	CConnectManager::Cleanup OK
+2023-10-27 0:1:12	CGameClient::Startup - OK
+2023-10-27 0:1:13	CGameClient::ConnectTo OK
+2023-10-27 0:2:18	CConnectManager::Cleanup OK
+2023-10-27 0:2:18	CGameClient::Startup - OK
+2023-10-27 0:2:18	CGameClient::ConnectTo OK
+2023-10-27 0:2:34	CConnectManager::Cleanup OK
+2023-10-27 0:2:34	CGameClient::Startup - OK
+2023-10-27 0:2:34	CGameClient::ConnectTo OK
+2023-10-27 0:4:41	CConnectManager::Cleanup OK
+2023-10-27 0:4:41	CGameClient::Startup - OK
+2023-10-27 0:4:41	CGameClient::ConnectTo OK
+2023-10-27 0:5:8	CConnectManager::Cleanup OK
+2023-10-27 0:5:8	CGameClient::Startup - OK
+2023-10-27 0:5:8	CGameClient::ConnectTo OK
+2023-10-27 0:5:38	CConnectManager::Cleanup OK
+2023-10-27 0:5:38	CGameClient::Startup - OK
+2023-10-27 0:5:38	CGameClient::ConnectTo OK
+2023-10-27 0:6:5	CConnectManager::Cleanup OK
+2023-10-27 0:6:5	CGameClient::Startup - OK
+2023-10-27 0:6:5	CGameClient::ConnectTo OK
+2023-10-27 0:6:35	CConnectManager::Cleanup OK
+2023-10-27 0:6:35	CGameClient::Startup - OK
+2023-10-27 0:6:35	CGameClient::ConnectTo OK
+2023-10-27 0:7:37	CConnectManager::Cleanup OK
+2023-10-27 0:7:37	CGameClient::Startup - OK
+2023-10-27 0:7:37	CGameClient::ConnectTo OK
+2023-10-27 0:7:53	CConnectManager::Cleanup OK
+2023-10-27 0:7:53	CGameClient::Startup - OK
+2023-10-27 0:7:53	CGameClient::ConnectTo OK
+2023-10-27 0:10:1	CConnectManager::Cleanup OK
+2023-10-27 0:10:1	CGameClient::Startup - OK
+2023-10-27 0:10:1	CGameClient::ConnectTo OK
+2023-10-27 0:10:29	CConnectManager::Cleanup OK
+2023-10-27 0:10:29	CGameClient::Startup - OK
+2023-10-27 0:10:29	CGameClient::ConnectTo OK
+2023-10-27 0:10:58	CConnectManager::Cleanup OK
+2023-10-27 0:10:58	CGameClient::Startup - OK
+2023-10-27 0:10:58	CGameClient::ConnectTo OK
+2023-10-27 0:11:29	CConnectManager::Cleanup OK
+2023-10-27 0:11:29	CGameClient::Startup - OK
+2023-10-27 0:11:29	CGameClient::ConnectTo OK
+2023-10-27 0:12:0	CConnectManager::Cleanup OK
+2023-10-27 0:12:0	CGameClient::Startup - OK
+2023-10-27 0:12:0	CGameClient::ConnectTo OK
+2023-10-27 0:13:1	CConnectManager::Cleanup OK
+2023-10-27 0:13:1	CGameClient::Startup - OK
+2023-10-27 0:13:1	CGameClient::ConnectTo OK
+2023-10-27 0:13:17	CConnectManager::Cleanup OK
+2023-10-27 0:13:17	CGameClient::Startup - OK
+2023-10-27 0:13:17	CGameClient::ConnectTo OK
+2023-10-27 0:15:23	CConnectManager::Cleanup OK
+2023-10-27 0:15:23	CGameClient::Startup - OK
+2023-10-27 0:15:23	CGameClient::ConnectTo OK
+2023-10-27 0:15:50	CConnectManager::Cleanup OK
+2023-10-27 0:15:50	CGameClient::Startup - OK
+2023-10-27 0:15:50	CGameClient::ConnectTo OK
+2023-10-27 0:16:20	CConnectManager::Cleanup OK
+2023-10-27 0:16:20	CGameClient::Startup - OK
+2023-10-27 0:16:20	CGameClient::ConnectTo OK
+2023-10-27 0:16:47	CConnectManager::Cleanup OK
+2023-10-27 0:16:47	CGameClient::Startup - OK
+2023-10-27 0:16:47	CGameClient::ConnectTo OK
+2023-10-27 0:17:17	CConnectManager::Cleanup OK
+2023-10-27 0:17:17	CGameClient::Startup - OK
+2023-10-27 0:17:17	CGameClient::ConnectTo OK
+2023-10-27 0:18:19	CConnectManager::Cleanup OK
+2023-10-27 0:18:19	CGameClient::Startup - OK
+2023-10-27 0:18:19	CGameClient::ConnectTo OK
+2023-10-27 0:18:34	CConnectManager::Cleanup OK
+2023-10-27 0:18:34	CGameClient::Startup - OK
+2023-10-27 0:18:34	CGameClient::ConnectTo OK
+2023-10-27 0:21:15	CConnectManager::Cleanup OK
+2023-10-27 0:21:15	CGameClient::Startup - OK
+2023-10-27 0:21:15	CGameClient::ConnectTo OK
+2023-10-27 0:21:46	CConnectManager::Cleanup OK
+2023-10-27 0:21:46	CGameClient::Startup - OK
+2023-10-27 0:21:46	CGameClient::ConnectTo OK
+2023-10-27 0:22:15	CConnectManager::Cleanup OK
+2023-10-27 0:22:15	CGameClient::Startup - OK
+2023-10-27 0:22:15	CGameClient::ConnectTo OK
+2023-10-27 0:22:43	CConnectManager::Cleanup OK
+2023-10-27 0:22:43	CGameClient::Startup - OK
+2023-10-27 0:22:43	CGameClient::ConnectTo OK
+2023-10-27 0:23:13	CConnectManager::Cleanup OK
+2023-10-27 0:23:13	CGameClient::Startup - OK
+2023-10-27 0:23:13	CGameClient::ConnectTo OK
+2023-10-27 0:24:14	CConnectManager::Cleanup OK
+2023-10-27 0:24:14	CGameClient::Startup - OK
+2023-10-27 0:24:14	CGameClient::ConnectTo OK
+2023-10-27 0:24:29	CConnectManager::Cleanup OK
+2023-10-27 0:24:29	CGameClient::Startup - OK
+2023-10-27 0:24:29	CGameClient::ConnectTo OK
+2023-10-27 0:26:38	CConnectManager::Cleanup OK
+2023-10-27 0:26:38	CGameClient::Startup - OK
+2023-10-27 0:26:38	CGameClient::ConnectTo OK
+2023-10-27 0:27:6	CConnectManager::Cleanup OK
+2023-10-27 0:27:6	CGameClient::Startup - OK
+2023-10-27 0:27:6	CGameClient::ConnectTo OK
+2023-10-27 0:27:36	CConnectManager::Cleanup OK
+2023-10-27 0:27:36	CGameClient::Startup - OK
+2023-10-27 0:27:36	CGameClient::ConnectTo OK
+2023-10-27 0:28:3	CConnectManager::Cleanup OK
+2023-10-27 0:28:3	CGameClient::Startup - OK
+2023-10-27 0:28:3	CGameClient::ConnectTo OK
+2023-10-27 0:28:33	CConnectManager::Cleanup OK
+2023-10-27 0:28:33	CGameClient::Startup - OK
+2023-10-27 0:28:33	CGameClient::ConnectTo OK
+2023-10-27 0:29:38	CConnectManager::Cleanup OK
+2023-10-27 0:29:38	CGameClient::Startup - OK
+2023-10-27 0:29:38	CGameClient::ConnectTo OK
+2023-10-27 0:29:54	CConnectManager::Cleanup OK
+2023-10-27 0:29:54	CGameClient::Startup - OK
+2023-10-27 0:29:54	CGameClient::ConnectTo OK
+2023-10-27 0:34:17	CConnectManager::Cleanup OK
+2023-10-27 0:34:17	CGameClient::Startup - OK
+2023-10-27 0:34:17	CGameClient::ConnectTo OK
+2023-10-27 0:34:44	CConnectManager::Cleanup OK
+2023-10-27 0:34:44	CGameClient::Startup - OK
+2023-10-27 0:34:44	CGameClient::ConnectTo OK
+2023-10-27 0:35:13	CConnectManager::Cleanup OK
+2023-10-27 0:35:13	CGameClient::Startup - OK
+2023-10-27 0:35:13	CGameClient::ConnectTo OK
+2023-10-27 0:35:41	CConnectManager::Cleanup OK
+2023-10-27 0:35:41	CGameClient::Startup - OK
+2023-10-27 0:35:41	CGameClient::ConnectTo OK
+2023-10-27 0:36:11	CConnectManager::Cleanup OK
+2023-10-27 0:36:11	CGameClient::Startup - OK
+2023-10-27 0:36:11	CGameClient::ConnectTo OK
+2023-10-27 0:37:12	CConnectManager::Cleanup OK
+2023-10-27 0:37:12	CGameClient::Startup - OK
+2023-10-27 0:37:12	CGameClient::ConnectTo OK
+2023-10-27 0:37:28	CConnectManager::Cleanup OK
+2023-10-27 0:37:28	CGameClient::Startup - OK
+2023-10-27 0:37:28	CGameClient::ConnectTo OK
+2023-10-27 0:39:35	CConnectManager::Cleanup OK
+2023-10-27 0:39:35	CGameClient::Startup - OK
+2023-10-27 0:39:35	CGameClient::ConnectTo OK
+2023-10-27 0:40:3	CConnectManager::Cleanup OK
+2023-10-27 0:40:3	CGameClient::Startup - OK
+2023-10-27 0:40:3	CGameClient::ConnectTo OK
+2023-10-27 0:40:31	CConnectManager::Cleanup OK
+2023-10-27 0:40:31	CGameClient::Startup - OK
+2023-10-27 0:40:31	CGameClient::ConnectTo OK
+2023-10-27 0:41:2	CConnectManager::Cleanup OK
+2023-10-27 0:41:2	CGameClient::Startup - OK
+2023-10-27 0:41:2	CGameClient::ConnectTo OK
+2023-10-27 0:41:33	CConnectManager::Cleanup OK
+2023-10-27 0:41:33	CGameClient::Startup - OK
+2023-10-27 0:41:33	CGameClient::ConnectTo OK
+2023-10-27 0:42:34	CConnectManager::Cleanup OK
+2023-10-27 0:42:34	CGameClient::Startup - OK
+2023-10-27 0:42:34	CGameClient::ConnectTo OK
+2023-10-27 0:42:50	CConnectManager::Cleanup OK
+2023-10-27 0:42:50	CGameClient::Startup - OK
+2023-10-27 0:42:50	CGameClient::ConnectTo OK
+2023-10-27 0:45:32	CConnectManager::Cleanup OK
+2023-10-27 0:45:32	CGameClient::Startup - OK
+2023-10-27 0:45:32	CGameClient::ConnectTo OK
+2023-10-27 0:45:59	CConnectManager::Cleanup OK
+2023-10-27 0:45:59	CGameClient::Startup - OK
+2023-10-27 0:45:59	CGameClient::ConnectTo OK
+2023-10-27 0:46:28	CConnectManager::Cleanup OK
+2023-10-27 0:46:28	CGameClient::Startup - OK
+2023-10-27 0:46:28	CGameClient::ConnectTo OK
+2023-10-27 0:46:55	CConnectManager::Cleanup OK
+2023-10-27 0:46:55	CGameClient::Startup - OK
+2023-10-27 0:46:55	CGameClient::ConnectTo OK
+2023-10-27 0:47:24	CConnectManager::Cleanup OK
+2023-10-27 0:47:24	CGameClient::Startup - OK
+2023-10-27 0:47:24	CGameClient::ConnectTo OK
+2023-10-27 0:48:26	CConnectManager::Cleanup OK
+2023-10-27 0:48:26	CGameClient::Startup - OK
+2023-10-27 0:48:26	CGameClient::ConnectTo OK
+2023-10-27 0:48:42	CConnectManager::Cleanup OK
+2023-10-27 0:48:42	CGameClient::Startup - OK
+2023-10-27 0:48:42	CGameClient::ConnectTo OK
+2023-10-27 3:22:49	CConnectManager::Cleanup OK
+2023-10-27 3:22:52	CGameClient::Startup - OK
+2023-10-27 3:22:52	CGameClient::ConnectTo OK
+2023-10-27 3:22:53	CGameClient::Startup - OK
+2023-10-27 3:22:53	CGameClient::ConnectTo OK
+2023-10-27 3:22:53	CConnectManager::Cleanup OK
+2023-10-27 6:57:46	CConnectManager::Cleanup OK
+2023-10-27 6:57:46	CGameClient::Startup - OK
+2023-10-27 6:57:46	CGameClient::ConnectTo OK
+2023-10-27 6:58:2	CConnectManager::Cleanup OK
+2023-10-27 6:58:2	CGameClient::Startup - OK
+2023-10-27 6:58:2	CGameClient::ConnectTo OK
+2023-10-27 8:4:4	CConnectManager::Cleanup OK
+2023-10-27 8:4:4	CGameClient::Startup - OK
+2023-10-27 8:4:4	CGameClient::ConnectTo OK
+2023-10-27 8:4:6	CGameClient::Startup - OK
+2023-10-27 8:4:6	CGameClient::ConnectTo OK
+2023-10-27 8:4:6	CConnectManager::Cleanup OK
+2023-10-27 8:4:28	CConnectManager::Cleanup OK
+2023-10-27 8:4:28	CGameClient::Startup - OK
+2023-10-27 8:4:28	CGameClient::ConnectTo OK
+2023-10-27 8:4:56	CConnectManager::Cleanup OK
+2023-10-27 8:4:56	CGameClient::Startup - OK
+2023-10-27 8:4:56	CGameClient::ConnectTo OK
+2023-10-27 8:5:26	CConnectManager::Cleanup OK
+2023-10-27 8:5:26	CGameClient::Startup - OK
+2023-10-27 8:5:26	CGameClient::ConnectTo OK
+2023-10-27 8:5:54	CConnectManager::Cleanup OK
+2023-10-27 8:5:54	CGameClient::Startup - OK
+2023-10-27 8:5:54	CGameClient::ConnectTo OK
+2023-10-27 8:6:23	CConnectManager::Cleanup OK
+2023-10-27 8:6:23	CGameClient::Startup - OK
+2023-10-27 8:6:23	CGameClient::ConnectTo OK
+2023-10-27 8:7:28	CConnectManager::Cleanup OK
+2023-10-27 8:7:28	CGameClient::Startup - OK
+2023-10-27 8:7:28	CGameClient::ConnectTo OK
+2023-10-27 8:7:45	CConnectManager::Cleanup OK
+2023-10-27 8:7:45	CGameClient::Startup - OK
+2023-10-27 8:7:45	CGameClient::ConnectTo OK
+2023-10-27 8:11:37	CConnectManager::Cleanup OK
+2023-10-27 8:11:37	CGameClient::Startup - OK
+2023-10-27 8:11:37	CGameClient::ConnectTo OK
+2023-10-27 8:12:7	CConnectManager::Cleanup OK
+2023-10-27 8:12:7	CGameClient::Startup - OK
+2023-10-27 8:12:7	CGameClient::ConnectTo OK
+2023-10-27 8:12:37	CConnectManager::Cleanup OK
+2023-10-27 8:12:37	CGameClient::Startup - OK
+2023-10-27 8:12:37	CGameClient::ConnectTo OK
+2023-10-27 8:13:5	CConnectManager::Cleanup OK
+2023-10-27 8:13:5	CGameClient::Startup - OK
+2023-10-27 8:13:5	CGameClient::ConnectTo OK
+2023-10-27 8:13:38	CConnectManager::Cleanup OK
+2023-10-27 8:13:38	CGameClient::Startup - OK
+2023-10-27 8:13:38	CGameClient::ConnectTo OK
+2023-10-27 8:14:39	CConnectManager::Cleanup OK
+2023-10-27 8:14:39	CGameClient::Startup - OK
+2023-10-27 8:14:39	CGameClient::ConnectTo OK
+2023-10-27 8:14:55	CConnectManager::Cleanup OK
+2023-10-27 8:14:55	CGameClient::Startup - OK
+2023-10-27 8:14:55	CGameClient::ConnectTo OK
+2023-10-27 8:18:44	CConnectManager::Cleanup OK
+2023-10-27 8:18:44	CGameClient::Startup - OK
+2023-10-27 8:18:44	CGameClient::ConnectTo OK
+2023-10-27 8:19:13	CConnectManager::Cleanup OK
+2023-10-27 8:19:13	CGameClient::Startup - OK
+2023-10-27 8:19:13	CGameClient::ConnectTo OK
+2023-10-27 8:19:46	CConnectManager::Cleanup OK
+2023-10-27 8:19:46	CGameClient::Startup - OK
+2023-10-27 8:19:46	CGameClient::ConnectTo OK
+2023-10-27 8:20:15	CConnectManager::Cleanup OK
+2023-10-27 8:20:15	CGameClient::Startup - OK
+2023-10-27 8:20:15	CGameClient::ConnectTo OK
+2023-10-27 8:20:47	CConnectManager::Cleanup OK
+2023-10-27 8:20:47	CGameClient::Startup - OK
+2023-10-27 8:20:47	CGameClient::ConnectTo OK
+2023-10-27 8:21:54	CConnectManager::Cleanup OK
+2023-10-27 8:21:54	CGameClient::Startup - OK
+2023-10-27 8:21:55	CGameClient::ConnectTo OK
+2023-10-27 8:22:11	CConnectManager::Cleanup OK
+2023-10-27 8:22:11	CGameClient::Startup - OK
+2023-10-27 8:22:11	CGameClient::ConnectTo OK
+2023-10-27 8:24:51	CConnectManager::Cleanup OK
+2023-10-27 8:24:51	CGameClient::Startup - OK
+2023-10-27 8:24:51	CGameClient::ConnectTo OK
+2023-10-27 8:25:21	CConnectManager::Cleanup OK
+2023-10-27 8:25:21	CGameClient::Startup - OK
+2023-10-27 8:25:21	CGameClient::ConnectTo OK
+2023-10-27 8:25:53	CConnectManager::Cleanup OK
+2023-10-27 8:25:53	CGameClient::Startup - OK
+2023-10-27 8:25:53	CGameClient::ConnectTo OK
+2023-10-27 8:26:22	CConnectManager::Cleanup OK
+2023-10-27 8:26:22	CGameClient::Startup - OK
+2023-10-27 8:26:22	CGameClient::ConnectTo OK
+2023-10-27 8:26:54	CConnectManager::Cleanup OK
+2023-10-27 8:26:54	CGameClient::Startup - OK
+2023-10-27 8:26:54	CGameClient::ConnectTo OK
+2023-10-27 8:28:1	CConnectManager::Cleanup OK
+2023-10-27 8:28:1	CGameClient::Startup - OK
+2023-10-27 8:28:1	CGameClient::ConnectTo OK
+2023-10-27 8:28:17	CConnectManager::Cleanup OK
+2023-10-27 8:28:17	CGameClient::Startup - OK
+2023-10-27 8:28:17	CGameClient::ConnectTo OK
+2023-10-27 8:30:53	CConnectManager::Cleanup OK
+2023-10-27 8:30:53	CGameClient::Startup - OK
+2023-10-27 8:30:54	CGameClient::ConnectTo OK
+2023-10-27 8:31:22	CConnectManager::Cleanup OK
+2023-10-27 8:31:22	CGameClient::Startup - OK
+2023-10-27 8:31:23	CGameClient::ConnectTo OK
+2023-10-27 8:31:57	CConnectManager::Cleanup OK
+2023-10-27 8:31:57	CGameClient::Startup - OK
+2023-10-27 8:31:57	CGameClient::ConnectTo OK
+2023-10-27 8:32:26	CConnectManager::Cleanup OK
+2023-10-27 8:32:26	CGameClient::Startup - OK
+2023-10-27 8:32:26	CGameClient::ConnectTo OK
+2023-10-27 8:32:58	CConnectManager::Cleanup OK
+2023-10-27 8:32:58	CGameClient::Startup - OK
+2023-10-27 8:32:59	CGameClient::ConnectTo OK
+2023-10-27 8:34:7	CConnectManager::Cleanup OK
+2023-10-27 8:34:7	CGameClient::Startup - OK
+2023-10-27 8:34:7	CGameClient::ConnectTo OK
+2023-10-27 8:34:23	CConnectManager::Cleanup OK
+2023-10-27 8:34:23	CGameClient::Startup - OK
+2023-10-27 8:34:23	CGameClient::ConnectTo OK
+2023-10-27 8:37:59	CConnectManager::Cleanup OK
+2023-10-27 8:37:59	CGameClient::Startup - OK
+2023-10-27 8:37:59	CGameClient::ConnectTo OK
+2023-10-27 9:2:51	CConnectManager::Cleanup OK
+2023-10-27 9:2:53	CGameClient::Startup - OK
+2023-10-27 9:2:53	CGameClient::ConnectTo OK
+2023-10-27 9:3:8	CConnectManager::Cleanup OK
+2023-10-27 9:3:13	CGameClient::Startup - OK
+2023-10-27 9:3:28	CConnectManager::Cleanup OK
+2023-10-27 9:3:28	CGameClient::Startup - OK
+2023-10-27 9:3:43	CConnectManager::Cleanup OK
+2023-10-27 9:3:43	CGameClient::Startup - OK
+2023-10-27 9:4:3	CConnectManager::Cleanup OK
+2023-10-27 9:4:3	CGameClient::Startup - OK
+2023-10-27 9:4:23	CConnectManager::Cleanup OK
+2023-10-27 9:4:23	CGameClient::Startup - OK
+2023-10-27 9:4:43	CConnectManager::Cleanup OK
+2023-10-27 9:4:43	CGameClient::Startup - OK
+2023-10-27 9:5:1	CConnectManager::Cleanup OK
+2023-10-27 9:5:1	CGameClient::Startup - OK
+2023-10-27 9:5:16	CConnectManager::Cleanup OK
+2023-10-27 9:5:16	CGameClient::Startup - OK
+2023-10-27 9:5:31	CConnectManager::Cleanup OK
+2023-10-27 9:5:31	CGameClient::Startup - OK
+2023-10-27 9:5:52	CConnectManager::Cleanup OK
+2023-10-27 9:5:52	CGameClient::Startup - OK
+2023-10-27 9:6:12	CConnectManager::Cleanup OK
+2023-10-27 9:6:12	CGameClient::Startup - OK
+2023-10-27 9:6:32	CConnectManager::Cleanup OK
+2023-10-27 9:6:32	CGameClient::Startup - OK
+2023-10-27 9:6:52	CConnectManager::Cleanup OK
+2023-10-27 9:6:52	CGameClient::Startup - OK
+2023-10-27 9:8:12	CConnectManager::Cleanup OK
+2023-10-27 9:8:12	CGameClient::Startup - OK
+2023-10-27 9:8:32	CConnectManager::Cleanup OK
+2023-10-27 9:8:32	CGameClient::Startup - OK
+2023-10-27 9:8:52	CConnectManager::Cleanup OK
+2023-10-27 9:8:52	CGameClient::Startup - OK
+2023-10-27 9:9:12	CConnectManager::Cleanup OK
+2023-10-27 9:9:12	CGameClient::Startup - OK
+2023-10-27 9:9:13	CGameClient::ConnectTo OK
+2023-10-27 9:9:15	CGameClient::Startup - OK
+2023-10-27 9:9:15	CGameClient::ConnectTo OK
+2023-10-27 9:9:15	CConnectManager::Cleanup OK
+2023-10-27 11:13:37	CConnectManager::Cleanup OK
+2023-10-27 11:13:37	CGameClient::Startup - OK
+2023-10-27 11:13:37	CGameClient::ConnectTo OK
+2023-10-27 11:13:52	CConnectManager::Cleanup OK
+2023-10-27 11:13:52	CGameClient::Startup - OK
+2023-10-27 11:13:52	CGameClient::ConnectTo OK
+2023-10-27 11:14:6	CConnectManager::Cleanup OK
+2023-10-27 11:14:6	CGameClient::Startup - OK
+2023-10-27 11:14:6	CGameClient::ConnectTo OK
+2023-10-27 11:17:42	CConnectManager::Cleanup OK
+2023-10-27 11:17:42	CGameClient::Startup - OK
+2023-10-27 11:17:42	CGameClient::ConnectTo OK
+2023-10-27 11:17:47	CConnectManager::Cleanup OK
+2023-10-27 11:17:47	CGameClient::Startup - OK
+2023-10-27 11:17:47	CGameClient::ConnectTo OK
+2023-10-27 11:18:17	CConnectManager::Cleanup OK
+2023-10-27 11:18:17	CGameClient::Startup - OK
+2023-10-27 11:18:17	CGameClient::ConnectTo OK
+2023-10-27 11:18:47	CConnectManager::Cleanup OK
+2023-10-27 11:18:47	CGameClient::Startup - OK
+2023-10-27 11:18:47	CGameClient::ConnectTo OK
+2023-10-27 11:19:49	CConnectManager::Cleanup OK
+2023-10-27 11:19:49	CGameClient::Startup - OK
+2023-10-27 11:19:50	CGameClient::ConnectTo OK
+2023-10-27 11:20:5	CConnectManager::Cleanup OK
+2023-10-27 11:20:5	CGameClient::Startup - OK
+2023-10-27 11:20:5	CGameClient::ConnectTo OK
+2023-10-27 11:24:17	CConnectManager::Cleanup OK
+2023-10-27 11:24:17	CGameClient::Startup - OK
+2023-10-27 11:24:17	CGameClient::ConnectTo OK
+2023-10-27 11:24:45	CConnectManager::Cleanup OK
+2023-10-27 11:24:45	CGameClient::Startup - OK
+2023-10-27 11:24:45	CGameClient::ConnectTo OK
+2023-10-27 11:25:23	CConnectManager::Cleanup OK
+2023-10-27 11:25:23	CGameClient::Startup - OK
+2023-10-27 11:25:23	CGameClient::ConnectTo OK
